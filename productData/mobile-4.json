@@ -1,0 +1,11 @@
+{
+    "title":"Apple iPhone 13 (128GB) - Starlight",
+    "brand":"Apple",
+    "ratings":"7183",
+    "description":"15 cm (6.1-inch) Super Retina XDR display Cinematic mode adds shallow depth of field and shifts focus automatically in your videos Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording A15 Bionic chip for lightning-fast performance",
+    "price":"66990",
+    "img":"https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",
+    "slug":"mobile-4",
+    "select":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"><option>6GB RAM + 128GB Storage</option> <option>8GB RAM + 256GB Storage</option><option>12GB RAM + 512GB Storage</option></select>",
+    "color":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\">option>Select Color</option> <option class=\"bg-neutral-100\">Star Light</option><option className=\"bg-sky-600\">Blue</option><option class=\"bg-emerald-800\">Green</option><option class=\"bg-red-300\">Pink</option><option class=\"bg-red-600\">Red</option></select>"
+}

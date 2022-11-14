@@ -1,0 +1,10 @@
+{
+    "title":"Apple iPhone 12 (128GB) - Blue",
+    "brand":"Apple",
+    "ratings":"22100",
+    "description":"6.1-inch (15.5 cm diagonal) Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass A14 Bionic chip, the fastest chip ever in a smartphone. Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording. Industry-leading IP68 water resistance. Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
+    "price":"54900",
+    "img":"https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
+    "slug":"mobile-7",
+    "select":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"> <option>Select Capacity</option> <option>6GB RAM + 128GB Storage</option> <option>8GB RAM + 256GB Storage</option> <option>12GB RAM + 512GB Storage</option></select> <span class=\"absolute right-0 top-0 h-full w-10 text-center text-gray-600 pointer-events-none flex items-center justify-center\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"w-4 h-4\" viewBox=\"0 0 24 24\"><path d=\"M6 9l6 6 6-6\"></path></svg></span>"
+}

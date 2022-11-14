@@ -1,0 +1,12 @@
+{
+    "id":"2",
+    "title":"Apple iPhone 12 (128GB) - White",
+    "brand":"Apple",
+    "ratings":"23011",
+    "description":"5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0 operating system and dual SIM Triple Rear Camera Setup - 12MP (Dual Pixel) OIS F1.8 Wide Rear Camera + 8MP OIS Tele Camera + 12MP Ultra Wide | 30X Space Zoom, Single Take & Night Mode | 32MP F2.2 Front Punch Hole Camera 6.5-inch(16.40 centimeters) Infinity-O Super AMOLED Display with 120Hz Refresh rate, 1080 x 2400 (FHD+) Resolution 4500 mAh battery (Non-removable) with Super Fast Charging, FAst Wireless Charging & Finger Print sensor IP68 Rated, MicroSD Card Slot (Expandable upto 1 TB), Dual Nano Sim, Hybrid Sim Slot, 5G+5G Dual stand by",
+    "price": "29999",
+    "img":"https://m.media-amazon.com/images/I/711wsjBtWeL._SX679_.jpg",
+    "slug":"mobile-2",    
+    "select":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"><option>Select Capacity</option><option>64 GB</option><option>128 GB</option><option>256 GB</option></select>",
+    "color":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"><option>Select Color</option><option>Red</option><option>Black</option></select>"
+}

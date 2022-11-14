@@ -1,0 +1,12 @@
+{
+    "id":"17",
+    "title":"Mi 189.34cm (75 inches) Q1 Series 4K Ultra HD Smart QLED TV L75M6-ESG (Metallic Grey)",
+    "brand":"Mi",
+    "ratings":"304",
+    "description":"Resolution : 4K Ultra HD (3840 x 2160) Resolution | Refresh Rate : 120Hz | 178 Degree wide viewing angle Connectivity: 3 HDMI ports to connect latest gaming consoles, set top box, Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | ALLM | eARC - Dolby Atmos Passthrough eARC HDMI port | Bluetooth 5.0 | Optical Sound: 30 Watts Output with 6 Speakers setup | Dolby Audio | DTS-HD | Dolby Atmos pass through eARC Smart TV Features : Android TV 10 | PatchWall 4 with IMDb integration | Kids Mode with Parental Lock | 75+ Free Live Channels | Universal search | Language Universe (16+ Languages) | India's Top 10 | Miracast | Supported Apps: Prime Video | Netflix | Disney + Hotstar | YouTube | Apple TV | 5000+ apps from Play Store | Quad core processor | Built-in Wi-Fi | Chromecast built-in | Ok Google | Auto Low Latency Mode | 2GB RAM + 32GB Storage | Hands-free Google Assistant.",
+    "price":"139999",
+    "img":"https://m.media-amazon.com/images/I/41VC-c+M6sL._SY300_SX300_.jpg",
+    "slug":"tv-1",
+    "select":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"><option>Pattern Name</option><option>OLED Q1 Series</option><option>OLED Series</option></select>",
+    "color":"<select class=\"rounded border appearance-none border-gray-300 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 text-base pl-3 pr-10\"><option>Select Size</option><option>75 Inches</option><option>55 Inches</option></select>"
+}
